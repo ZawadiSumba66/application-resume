@@ -2,7 +2,7 @@
 # APPLICATION RESUME
 
 This is an apllication resume for HNG Internship program.
-See Live version of app [here]() 
+See Live version of app [here](https://zawadisumba66.github.io/application-resume/) 
 
 ## Built With
 - HTML5
